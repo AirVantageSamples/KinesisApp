@@ -50,7 +50,7 @@
 					<archive>
 						<manifest>
 							<addClasspath>true</addClasspath>
-							<mainClass>net.airvantage.MyApp</mainClass>
+							<mainClass>net.airvantage.KinesisStreamApp</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
